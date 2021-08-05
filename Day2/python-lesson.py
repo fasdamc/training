@@ -1,4 +1,4 @@
-
+print (100)
 print('Python is awesome!')
 first_name = 'Fassica'
 last_name = 'Damtew'
